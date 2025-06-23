@@ -2,7 +2,7 @@
 💧🔗 Advancing Water Monitoring with IoT Technology 🔗💧
 📌 Project: IoT-Based Water Quality Testing Device
 
-As part of our continued learning and innovation journey, I’m excited to share the latest project I worked on with my teammates Sagar Kumar and Harshit Singh Khati — an upgraded IoT-Based Water Quality Testing Device. — took a step forward in smart monitoring by designing an upgraded IoT-Based Water Quality Monitoring System using the ESP8266 NodeMCU and Blynk IoT platform.
+As part of our continued learning and innovation journey, I’m excited to share the latest project I worked on with my teammates Akriti Kumari and Harshit Singh Khati — an upgraded IoT-Based Water Quality Testing Device. — took a step forward in smart monitoring by designing an upgraded IoT-Based Water Quality Monitoring System using the ESP8266 NodeMCU and Blynk IoT platform.
 
 🔄 What’s New? What Improved?
 In our earlier version, the Arduino Uno required manual inspection of sensor data via an LCD screen. While functional, it lacked wireless capabilities and real-time remote access.
